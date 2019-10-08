@@ -29,3 +29,30 @@ let result1=undefined;
      :("false");
      console.log(result1);
  // TRUE WHEN ATLEAST ONE VALUE "TRUE"
+
+
+//Extra Part
+
+let  Name= null;
+console.log(Name==null);
+console.log(Name!=25);
+console.log(Number(null));
+
+let sure_Name=true;
+console.log(String(sure_Name));
+
+
+let eng= "10";
+let eng1=10;
+
+if (eng!=eng1) {
+     
+    ("not same number")
+    
+}
+
+else{
+
+}
+
+
